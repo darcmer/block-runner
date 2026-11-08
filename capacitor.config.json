@@ -1,0 +1,7 @@
+{
+  "appId": "com.blockrunner.game",
+  "appName": "Block Runner",
+  "webDir": "www",
+  "backgroundColor": "#0a0c14",
+  "android": { "allowMixedContent": false }
+}
